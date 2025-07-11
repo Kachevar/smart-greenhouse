@@ -9,6 +9,10 @@ You need to assembly a smart green house:
 
 
 
+
+
+
+
 <img width="1063" height="722" alt="Wiring diagram for modules to arduino" src="https://github.com/user-attachments/assets/7c0caf46-7210-41be-9818-fc722f53089f" />
 
 
