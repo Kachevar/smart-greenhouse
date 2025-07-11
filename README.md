@@ -4,4 +4,6 @@ You need to assembly a smart green house:
 3)DHT11 temperature sensor
 4)Arduino UNO or other based boards
 
+<img width="1063" height="722" alt="Wiring diagram for modules to arduino" src="https://github.com/user-attachments/assets/7c0caf46-7210-41be-9818-fc722f53089f" />
+
 The code is written using libraries by Adafruit
