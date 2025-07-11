@@ -16,7 +16,7 @@ You need to assembly a smart green house:
 The code is written using libraries by Adafruit
 
 
-![5442626246354791740](https://github.com/user-attachments/assets/ed62812e-d293-41e2-bea4-2514aec106e5)
+![5442626246354791773](https://github.com/user-attachments/assets/17ccafa1-b22f-4868-bc70-1132ee82906b)
 
 
 Good luck!
